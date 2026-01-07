@@ -1,0 +1,62 @@
+Project Overview
+
+This project analyzes global disaster data from 2018 to 2024 to understand the economic impact, 
+human casualties, disaster frequency, and response efficiency across countries and disaster types. 
+The analysis highlights high-loss years, costliest disasters, and disaster-prone regions, 
+along with response and recovery patterns.
+
+
+🎯 Objectives
+
+Identify the year with the highest economic loss due to global disasters
+
+Analyze economic loss and casualties by disaster type
+
+Determine countries most frequently affected by disasters
+
+Evaluate response time, recovery duration, and response efficiency
+
+Assess severity patterns across disaster categories
+
+
+📊 Key Metrics & Visualizations
+
+Economic Loss by Year
+
+Economic Loss by Disaster Type
+
+Casualties by Disaster Type
+
+Severity Index by Disaster Type
+
+Average Response Time Score by Disaster Type
+
+Total Recovery Days by Disaster Type
+
+Disaster Count by Country
+
+Response Efficiency Score by Country
+
+
+🔍 Key Insights
+
+Certain years experienced significantly higher economic losses, indicating periods of severe global impact.
+
+Specific disaster types consistently caused maximum economic damage and casualties, making them high-severity risks.
+
+Some countries faced frequent disaster occurrences, highlighting geographic vulnerability.
+
+Response and recovery timelines varied by disaster type, revealing gaps in preparedness and recovery efficiency.
+
+Countries with higher response efficiency scores demonstrated better disaster management outcomes.
+
+
+🛠 Tools & Skills Used
+
+Data Cleaning & Analysis (Excel / SQL )
+
+Data Visualization & Dashboarding (Power BI)
+
+KPI Analysis & Comparative Analysis
+
+Trend Analysis & Insight Generation
